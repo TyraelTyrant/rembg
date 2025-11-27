@@ -1,0 +1,10 @@
+onnxruntime
+rembg
+fastapi
+uvicorn[standard]
+pillow
+filetype
+watchdog
+aiohttp
+gradio
+asyncer
